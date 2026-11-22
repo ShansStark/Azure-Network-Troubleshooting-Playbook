@@ -40,8 +40,6 @@ This project aims to help engineers learn:
 
 ✅ DNS vs Connectivity Analysis
 
-✅ Real-World Azure Support Investigation Techniques
-
 ---
 
 ## 🚀 Quick Navigation
