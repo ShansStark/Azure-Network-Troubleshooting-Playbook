@@ -8,6 +8,7 @@
 >
 > 🔗 https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview
 
+
 ## 🏗️ Architecture
 
 ```mermaid
@@ -15,25 +16,23 @@ flowchart LR
 
 VM["🖥️ Application VM"]
 
-DNS["🌐 DNS Resolution
-Azure DNS / Custom DNS"]
+FQDN["🌐 FQDN
+mystorage.blob.core.windows.net"]
 
-PDNS["📛 Private DNS Zone
-privatelink.*"]
+DNS["📛 Private DNS Zone"]
 
 PE["🔒 Private Endpoint
 10.0.2.5"]
 
-PAAS["☁️ Azure PaaS Service
-Storage / SQL / Key Vault"]
+STG["☁️ Azure Storage Account"]
 
-VM -->|"*� Resolve FQDN"| DNS
+VM -->|"Resolve Name"| FQDN
 
-PDNS -.->|"�* Private DNS Record"| DNS
+FQDN --> DNS
 
-DNS -->*"✅ Returns Private IP*| PE
+DNS -->|"Returns Private IP"| PE
 
-PE -->|"🔐 Private Connectiv*ty"| PAAS
+PE --> STG
 ```
 
 ---

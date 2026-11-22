@@ -5,7 +5,7 @@ A practical collection of Azure networking troubleshooting scenarios built aroun
 Instead of focusing only on Azure Network Watcher tools, each scenario follows the same troubleshooting methodology used by Azure networking engineers:
 
 ```text
-    Problem
+Problem
         ↓
 Reproduce Issue
         ↓
