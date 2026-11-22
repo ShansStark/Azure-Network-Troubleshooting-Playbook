@@ -50,7 +50,6 @@ This project aims to help engineers learn:
 
 - [🧠 Investigation Methodology](scenarios/InvestigationMindset.md)
 - [📚 Azure Network Watcher Overview](docs/NetworkWatcherOverview.md)
-- [📤 Publishing to GitHub](docs/PublishToGitHub.md)
 
 ---
 
