@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files (keep the shared recommendations file)
+.vscode/*
+!.vscode/extensions.json
+
+# Secrets and local config - never commit these
+.env
+*.pfx
+*.pem
+*.key
+*.publishsettings
+*.tfvars
+local.settings.json
+
+# Packet captures and logs
+*.cap
+*.pcap
+*.pcapng
+*.log
+
+# Azure / PowerShell / Terraform local state (if you add labs later)
+.terraform/
+*.tfstate
+*.tfstate.*
+.azure/
+
+# Scratch work
+tmp/
+scratch/

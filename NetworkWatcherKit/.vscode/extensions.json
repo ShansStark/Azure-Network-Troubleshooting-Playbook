@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-vscode.powershell",
+    "bierner.markdown-mermaid",
+    "yzhang.markdown-all-in-one",
+    "DavidAnson.vscode-markdownlint",
+    "ms-azuretools.vscode-azureresourcegroups"
+  ]
+}
