@@ -54,7 +54,7 @@ This project aims to help engineers learn:
 ## 📚 Available Scenarios
 
 | # | Scenario | Documentation | Decision Tree |
-|---|----------|---------------|---------------|
+|---|---|---|---|
 | 01 | 🌐 VM to Internet Connectivity | [Open](scenarios/Scenario-01-VM-To-Internet.md) | [Decision Tree](scenarios/Scenario-01-VM-To-Internet-DecisionTree.md) |
 | 02 | 🖥️ VM to VM (Same Virtual Network) | [Open](scenarios/Scenario-02-VM-To-VM-Same-VNet.md) | [Decision Tree](scenarios/Scenario-02-VM-To-VM-Same-VNet-DecisionTree.md) |
 | 03 | 🔗 VM to VM (Peered VNets) | [Open](scenarios/Scenario-03-VM-To-VM-Spoke.md) | [Decision Tree](scenarios/Scenario-03-VM-To-VM-Spoke-DecisionTree.md) |
