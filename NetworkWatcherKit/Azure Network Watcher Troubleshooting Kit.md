@@ -55,11 +55,11 @@ This project aims to help engineers learn:
 
 | # | Scenario | Documentation | Decision Tree |
 |---|----------|---------------|---------------|
-| 01 | 🌐 VM to Internet Connectivity | [Open](scenarios/Scenario-01-VM-To-Internet.md) | [Decision Tree](scenarios/Scenario-01-VM-To-Internet%20-%20DecisionTree.md) |
-| 02 | 🖥️ VM to VM (Same Virtual Network) | [Open](scenarios/Scenario-02-VM-To-VM-Same-VNet.md) | [Decision Tree](scenarios/Scenario-02-VM-To-VM-Same-VNet%20DecisionTree.md) |
-| 03 | 🔗 VM to VM (Peered VNets) | [Open](scenarios/Scenario-03-VM-To-VM-Spoke.md) | [Decision Tree](scenarios/Scenario-03-VM-To-VM-Spoke%20DecisionTree.md) |
-| 04 | 🔥 VM to VM via Azure Firewall / NVA | [Open](scenarios/Scenario-04-VM-To-VM-Via-Firewall.md) | [Decision Tree](scenarios/Scenario-04-VM-To-VM-Via-Firewall%20DecisionTree.md) |
-| 05 | 🔒 VM to FQDN / Private Endpoint | [Open](scenarios/Scenario-05-VM-To-FQDN-PrivateEndpoint.md) | [Decision Tree](scenarios/Scenario-05-VM-To-FQDN-PrivateEndpoint%20DecisionTree.md) |
+| 01 | 🌐 VM to Internet Connectivity | [Open](scenarios/Scenario-01-VM-To-Internet.md) | [Decision Tree](scenarios/Scenario-01-VM-To-Internet-DecisionTree.md) |
+| 02 | 🖥️ VM to VM (Same Virtual Network) | [Open](scenarios/Scenario-02-VM-To-VM-Same-VNet.md) | [Decision Tree](scenarios/Scenario-02-VM-To-VM-Same-VNet-DecisionTree.md) |
+| 03 | 🔗 VM to VM (Peered VNets) | [Open](scenarios/Scenario-03-VM-To-VM-Spoke.md) | [Decision Tree](scenarios/Scenario-03-VM-To-VM-Spoke-DecisionTree.md) |
+| 04 | 🔥 VM to VM via Azure Firewall / NVA | [Open](scenarios/Scenario-04-VM-To-VM-Via-Firewall.md) | [Decision Tree](scenarios/Scenario-04-VM-To-VM-Via-Firewall-DecisionTree.md) |
+| 05 | 🔒 VM to FQDN / Private Endpoint | [Open](scenarios/Scenario-05-VM-To-FQDN-PrivateEndpoint.md) | [Decision Tree](scenarios/Scenario-05-VM-To-FQDN-PrivateEndpoint-DecisionTree.md) |
 
 ---
 ---
